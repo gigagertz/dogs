@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>itemChildren</key>
+	<array>
+		<dict>
+			<key>itemTitle</key>
+			<string>Собаки</string>
+			<key>itemChildren</key>
+			<array>
+				<dict>
+					<key>itemTitle</key>
+					<string>Терьер</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Йорк</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Бойцовские</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 1</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 2</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Северные</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 1</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 2</string>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>itemTitle</key>
+			<string>По странам</string>
+			<key>itemChildren</key>
+			<array>
+				<dict>
+					<key>itemTitle</key>
+					<string>Россия</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 1</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 2</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Испания</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 1</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 2</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Китай</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 1</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 2</string>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>itemTitle</key>
+			<string>По породам</string>
+			<key>itemChildren</key>
+			<array>
+				<dict>
+					<key>itemTitle</key>
+					<string>Йорк</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Взрослые</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Щенки</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Item B</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 1</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 2</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Item C</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 1</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 2</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Item 3</string>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>itemTitle</key>
+			<string>По видам</string>
+			<key>itemChildren</key>
+			<array>
+				<dict>
+					<key>itemTitle</key>
+					<string>Лесные</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>волк</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Рысь</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Степные</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>Суслик</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>Змея</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>itemTitle</key>
+					<string>Волосатые</string>
+					<key>itemChildren</key>
+					<array>
+						<dict>
+							<key>itemTitle</key>
+							<string>симбернар</string>
+						</dict>
+						<dict>
+							<key>itemTitle</key>
+							<string>водолаз</string>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

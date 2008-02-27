@@ -1,0 +1,392 @@
+TDrillDownSave
+v7
+r0
+t225552164.707757
+cCheck dependencies
+cProcessInfoPlistFile /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/Info.plist Info.plist
+cCopyPlistFile /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/outline.plist outline.plist
+cCopyStringsFile /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+cCompileXIB /Users/sergejmagomedov/Downloads/DrillDownSave/en.lproj/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/DrillDownSave.app/Default.png Default.png
+cProcessPCH /var/folders/J0/J0chtS7yEuaLWUt+asWfuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fswxiqoxzscswshilmcpxqhwqmze/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/main.o /Users/sergejmagomedov/Downloads/DrillDownSave/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/LeafViewController.o /Users/sergejmagomedov/Downloads/DrillDownSave/LeafViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/AppDelegate.o /Users/sergejmagomedov/Downloads/DrillDownSave/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level1ViewController.o /Users/sergejmagomedov/Downloads/DrillDownSave/Level1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level2ViewController.o /Users/sergejmagomedov/Downloads/DrillDownSave/Level2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level3ViewController.o /Users/sergejmagomedov/Downloads/DrillDownSave/Level3ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave normal i386
+cGenerateDSYMFile /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app.dSYM /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave
+cTouch /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004ABE051D00000000000000EE
+t1253967133
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026DB00
+t1242278438
+s2546432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000260C20
+t1242278711
+s2493472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001432D80
+t1242349407
+s21179776
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/AppDelegate.h
+c000000004A306C900000000000000E4C
+t1244687504
+s3660
+i<UIKit/UIKit.h>
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/AppDelegate.m
+c000000004A306C900000000000001736
+t1244687504
+s5942
+i"AppDelegate.h"
+i"Level1ViewController.h"
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/Default.png
+c000000004A11CE0C0000000000000848
+t1242680844
+s2120
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/LeafViewController.h
+c000000004A306C900000000000000A12
+t1244687504
+s2578
+i<UIKit/UIKit.h>
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/LeafViewController.m
+c000000004A306C900000000000000A67
+t1244687504
+s2663
+i"LeafViewController.h"
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/Level1ViewController.h
+c000000004A306C900000000000000BF0
+t1244687504
+s3056
+i<UIKit/UIKit.h>
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/Level1ViewController.m
+c000000004A306C90000000000000183B
+t1244687504
+s6203
+i"AppDelegate.h"
+i"Level1ViewController.h"
+i"Level2ViewController.h"
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/Level2ViewController.h
+c000000004A306C900000000000000BF0
+t1244687504
+s3056
+i<UIKit/UIKit.h>
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/Level2ViewController.m
+c000000004A306C900000000000001812
+t1244687504
+s6162
+i"AppDelegate.h"
+i"Level2ViewController.h"
+i"Level3ViewController.h"
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/Level3ViewController.h
+c000000004A306C900000000000000C07
+t1244687504
+s3079
+i<UIKit/UIKit.h>
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/Level3ViewController.m
+c000000004A306C900000000000001674
+t1244687504
+s5748
+i"AppDelegate.h"
+i"Level3ViewController.h"
+i"LeafViewController.h"
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/Prefix.pch
+c000000004A11CE0C0000000000000058
+t1242680844
+s88
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app
+t1203859364
+s272
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app.dSYM
+t1203859364
+s102
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/Default.png
+t1203859363
+s2120
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave
+t1203859364
+s40852
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/Info.plist
+t1203859362
+s613
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/PkgInfo
+t1203859362
+s8
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/en.lproj/InfoPlist.strings
+t1203859363
+s194
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/en.lproj/MainWindow.nib
+t1203859363
+s4252
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/outline.plist
+t1203859363
+s282
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/AppDelegate.o
+t1203859364
+s45792
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/DrillDownSave.LinkFileList
+c0000000047C16FA20000000000000399
+t1203859362
+s921
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/LeafViewController.o
+t1203859364
+s28392
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level1ViewController.o
+t1203859364
+s50268
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level2ViewController.o
+t1203859364
+s50112
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level3ViewController.o
+t1203859364
+s49272
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/main.o
+t1203859364
+s5968
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/en.lproj/InfoPlist.strings
+c000000004A11CE0C0000000000000146
+t1242680844
+s326
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/en.lproj/MainWindow.xib
+c000000004A11CE0C0000000000006C17
+t1242680844
+s27671
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/main.m
+c000000004A306C900000000000000A79
+t1244687504
+s2681
+i<UIKit/UIKit.h>
+
+N/Users/sergejmagomedov/Downloads/DrillDownSave/outline.plist
+c000000004A11CE0C000000000000096E
+t1242680844
+s2414
+
+N/var/folders/J0/J0chtS7yEuaLWUt+asWfuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fswxiqoxzscswshilmcpxqhwqmze/Prefix.pch.gch
+t1203859364
+s12952944
+
+NInfo.plist
+c000000004A11CE0C0000000000000385
+t1242680844
+s901
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies225552162#225552162#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/AppDelegate.o /Users/sergejmagomedov/Downloads/DrillDownSave/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s225552164.385488
+e225552164.481548
+r1
+xCompileC
+xbuild/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/AppDelegate.o
+x/Users/sergejmagomedov/Downloads/DrillDownSave/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/sergejmagomedov/Downloads/DrillDownSave/AppDelegate.m225552164#225552164#0(0"0(0#0#60"/Users/sergejmagomedov/Downloads/DrillDownSave/AppDelegate.m4300885448#2042"    cd /Users/sergejmagomedov/Downloads/DrillDownSave    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-generated-files.hmap -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-own-target-headers.hmap -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-all-target-headers.hmap -iquote /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-project-headers.hmap -F/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/include -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources/i386 -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources -include /var/folders/J0/J0chtS7yEuaLWUt+asWfuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fswxiqoxzscswshilmcpxqhwqmze/Prefix.pch -c /Users/sergejmagomedov/Downloads/DrillDownSave/AppDelegate.m -o /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/LeafViewController.o /Users/sergejmagomedov/Downloads/DrillDownSave/LeafViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s225552164.332919
+e225552164.406082
+r1
+xCompileC
+xbuild/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/LeafViewController.o
+x/Users/sergejmagomedov/Downloads/DrillDownSave/LeafViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/sergejmagomedov/Downloads/DrillDownSave/LeafViewController.m225552164#225552164#0(0"0(0#0#67"/Users/sergejmagomedov/Downloads/DrillDownSave/LeafViewController.m4300885448#2056"    cd /Users/sergejmagomedov/Downloads/DrillDownSave    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-generated-files.hmap -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-own-target-headers.hmap -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-all-target-headers.hmap -iquote /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-project-headers.hmap -F/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/include -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources/i386 -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources -include /var/folders/J0/J0chtS7yEuaLWUt+asWfuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fswxiqoxzscswshilmcpxqhwqmze/Prefix.pch -c /Users/sergejmagomedov/Downloads/DrillDownSave/LeafViewController.m -o /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/LeafViewController.o0#
+
+CCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level1ViewController.o /Users/sergejmagomedov/Downloads/DrillDownSave/Level1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s225552164.406195
+e225552164.536473
+r1
+xCompileC
+xbuild/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level1ViewController.o
+x/Users/sergejmagomedov/Downloads/DrillDownSave/Level1ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/sergejmagomedov/Downloads/DrillDownSave/Level1ViewController.m225552164#225552164#0(0"0(0#0#69"/Users/sergejmagomedov/Downloads/DrillDownSave/Level1ViewController.m4300885448#2060"    cd /Users/sergejmagomedov/Downloads/DrillDownSave    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-generated-files.hmap -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-own-target-headers.hmap -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-all-target-headers.hmap -iquote /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-project-headers.hmap -F/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/include -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources/i386 -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources -include /var/folders/J0/J0chtS7yEuaLWUt+asWfuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fswxiqoxzscswshilmcpxqhwqmze/Prefix.pch -c /Users/sergejmagomedov/Downloads/DrillDownSave/Level1ViewController.m -o /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level1ViewController.o0#
+
+CCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level2ViewController.o /Users/sergejmagomedov/Downloads/DrillDownSave/Level2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s225552164.481657
+e225552164.602079
+r1
+xCompileC
+xbuild/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level2ViewController.o
+x/Users/sergejmagomedov/Downloads/DrillDownSave/Level2ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/sergejmagomedov/Downloads/DrillDownSave/Level2ViewController.m225552164#225552164#0(0"0(0#0#69"/Users/sergejmagomedov/Downloads/DrillDownSave/Level2ViewController.m4300885448#2060"    cd /Users/sergejmagomedov/Downloads/DrillDownSave    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-generated-files.hmap -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-own-target-headers.hmap -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-all-target-headers.hmap -iquote /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-project-headers.hmap -F/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/include -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources/i386 -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources -include /var/folders/J0/J0chtS7yEuaLWUt+asWfuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fswxiqoxzscswshilmcpxqhwqmze/Prefix.pch -c /Users/sergejmagomedov/Downloads/DrillDownSave/Level2ViewController.m -o /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level2ViewController.o0#
+
+CCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level3ViewController.o /Users/sergejmagomedov/Downloads/DrillDownSave/Level3ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s225552164.536674
+e225552164.637526
+r1
+xCompileC
+xbuild/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level3ViewController.o
+x/Users/sergejmagomedov/Downloads/DrillDownSave/Level3ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/sergejmagomedov/Downloads/DrillDownSave/Level3ViewController.m225552164#225552164#0(0"0(0#0#69"/Users/sergejmagomedov/Downloads/DrillDownSave/Level3ViewController.m4300885448#2060"    cd /Users/sergejmagomedov/Downloads/DrillDownSave    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-generated-files.hmap -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-own-target-headers.hmap -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-all-target-headers.hmap -iquote /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-project-headers.hmap -F/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/include -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources/i386 -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources -include /var/folders/J0/J0chtS7yEuaLWUt+asWfuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fswxiqoxzscswshilmcpxqhwqmze/Prefix.pch -c /Users/sergejmagomedov/Downloads/DrillDownSave/Level3ViewController.m -o /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/Level3ViewController.o0#
+
+CCompileC build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/main.o /Users/sergejmagomedov/Downloads/DrillDownSave/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s225552164.331646
+e225552164.385371
+r1
+xCompileC
+xbuild/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/main.o
+x/Users/sergejmagomedov/Downloads/DrillDownSave/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/sergejmagomedov/Downloads/DrillDownSave/main.m225552164#225552164#0(0"0(0#0#53"/Users/sergejmagomedov/Downloads/DrillDownSave/main.m4300885448#2028"    cd /Users/sergejmagomedov/Downloads/DrillDownSave    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-generated-files.hmap -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-own-target-headers.hmap -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-all-target-headers.hmap -iquote /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-project-headers.hmap -F/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/include -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources/i386 -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources -include /var/folders/J0/J0chtS7yEuaLWUt+asWfuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fswxiqoxzscswshilmcpxqhwqmze/Prefix.pch -c /Users/sergejmagomedov/Downloads/DrillDownSave/main.m -o /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/sergejmagomedov/Downloads/DrillDownSave/en.lproj/MainWindow.xib
+s225552163.217660
+e225552163.632345
+r1
+xCompileXIB
+x/Users/sergejmagomedov/Downloads/DrillDownSave/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib225552163#225552163#0(0"0(0#0#70"/Users/sergejmagomedov/Downloads/DrillDownSave/en.lproj/MainWindow.xib4300885448#528"    cd /Users/sergejmagomedov/Downloads/DrillDownSave    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/en.lproj/MainWindow.nib /Users/sergejmagomedov/Downloads/DrillDownSave/en.lproj/MainWindow.xib0#
+
+CCopyPlistFile /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/outline.plist outline.plist
+s225552162.986751
+e225552163.217509
+r1
+xCopyPlistFile
+x/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/outline.plist
+xoutline.plist
+lSLF07#2@18"Copy outline.plist225552162#225552163#0(0"0(0#0#60"/Users/sergejmagomedov/Downloads/DrillDownSave/outline.plist4300885448#410"    cd /Users/sergejmagomedov/Downloads/DrillDownSave    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 outline.plist --outdir /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app0#
+
+CCopyStringsFile /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
+s225552162.987415
+e225552163.265875
+r1
+xCopyStringsFile
+x/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/en.lproj/InfoPlist.strings
+xen.lproj/InfoPlist.strings
+oen.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@31"Copy en.lproj/InfoPlist.strings225552162#225552163#0(128"en.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#73"/Users/sergejmagomedov/Downloads/DrillDownSave/en.lproj/InfoPlist.strings4300885448#505"    cd /Users/sergejmagomedov/Downloads/DrillDownSave    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/InfoPlist.strings --outdir /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/DrillDownSave.app/Default.png Default.png
+s225552163.266077
+e225552163.273229
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/DrillDownSave.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png225552163#225552163#0(0"0(0#0#58"/Users/sergejmagomedov/Downloads/DrillDownSave/Default.png4300885448#485"    cd /Users/sergejmagomedov/Downloads/DrillDownSave    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sergejmagomedov/Downloads/DrillDownSave/Default.png /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app0#
+
+CGenerateDSYMFile /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app.dSYM /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave
+s225552164.659308
+e225552164.704151
+r1
+xGenerateDSYMFile
+x/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app.dSYM
+x/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/DrillDownSave.app.dSYM build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave225552164#225552164#0(0"0(0#0#106"/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave4300885448#425"    cd /Users/sergejmagomedov/Downloads/DrillDownSave    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave -o /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app.dSYM0#
+
+CLd /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave normal i386
+s225552164.637621
+e225552164.659199
+r1
+xLd
+x/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave
+xnormal
+xi386
+lSLF07#2@111"Link /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave225552164#225552164#0(0"0(0#0#0"4300885448#932"    cd /Users/sergejmagomedov/Downloads/DrillDownSave    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator -F/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator -filelist /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/Objects-normal/i386/DrillDownSave.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/DrillDownSave0#
+
+CProcessInfoPlistFile /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/Info.plist Info.plist
+s225552162.983096
+e225552162.986668
+r1
+xProcessInfoPlistFile
+x/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist225552162#225552162#0(0"0(0#0#57"/Users/sergejmagomedov/Downloads/DrillDownSave/Info.plist4300885448#507"    cd /Users/sergejmagomedov/Downloads/DrillDownSave    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app/Info.plist0#
+
+CProcessPCH /var/folders/J0/J0chtS7yEuaLWUt+asWfuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fswxiqoxzscswshilmcpxqhwqmze/Prefix.pch.gch Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s225552163.632467
+e225552164.331507
+r1
+xProcessPCH
+x/var/folders/J0/J0chtS7yEuaLWUt+asWfuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fswxiqoxzscswshilmcpxqhwqmze/Prefix.pch.gch
+xPrefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@21"Precompile Prefix.pch225552163#225552164#0(0"0(0#0#57"/Users/sergejmagomedov/Downloads/DrillDownSave/Prefix.pch4300885448#1892"    cd /Users/sergejmagomedov/Downloads/DrillDownSave    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-generated-files.hmap -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-own-target-headers.hmap -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-all-target-headers.hmap -iquote /Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DrillDownSave-project-headers.hmap -F/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/include -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources/i386 -I/Users/sergejmagomedov/Downloads/DrillDownSave/build/DrillDownSave.build/Debug-iphonesimulator/DrillDownSave.build/DerivedSources -c /Users/sergejmagomedov/Downloads/DrillDownSave/Prefix.pch -o /var/folders/J0/J0chtS7yEuaLWUt+asWfuk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prefix-fswxiqoxzscswshilmcpxqhwqmze/Prefix.pch.gch0#
+
+CTouch /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app
+s225552164.704255
+e225552164.707713
+r1
+xTouch
+x/Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app
+lSLF07#2@98"Touch /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app225552164#225552164#0(0"0(0#0#0"4300885448#300"    cd /Users/sergejmagomedov/Downloads/DrillDownSave    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sergejmagomedov/Downloads/DrillDownSave/build/Debug-iphonesimulator/DrillDownSave.app0#
+
